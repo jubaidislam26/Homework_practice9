@@ -1,0 +1,22 @@
+.alert-red{
+	color: #f23011;
+    background-color: #d7d5ce;
+    border-color: #ff5717;
+}
+.btn-blue{
+	color: #000;
+    background-color: #b1bcc7;
+    border-color: #343a40;
+}
+.t_p{
+	font-family: sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	color: green;
+}
+.bg{
+	background-color: grey;
+	color: white;
+	text-align: center;
+	min-height: 50px;
+}
